@@ -19,5 +19,5 @@
 
 ## 📫 Contact Me  
 📧 Email: muratgunduz0397@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/muratgunduz/)  
+💼 [LinkedIn]([https://www.linkedin.com/in/muratgunduz/](https://www.linkedin.com/in/murat-gündüz-768258225/))  
 🐙 [GitHub](https://github.com/muratgunduz)  
